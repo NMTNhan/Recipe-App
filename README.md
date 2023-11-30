@@ -1,10 +1,6 @@
-**REACT_APP_API_KEY=bae1bc4bdc284982bcf8ed3b3947a7b5
-PLEASE CREATE AN .ENV FILE WITH THE REACT KEY ABOVE**
+# PLEASE CREATE AN .ENV FILE WITH THIS REACT KEY
 
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+REACT_APP_API_KEY=bae1bc4bdc284982bcf8ed3b3947a7b5
 
 ## Available Scripts
 
